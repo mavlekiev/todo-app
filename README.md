@@ -2,11 +2,11 @@
 
 ToDo-приложение на **TypeScript, React, Vite**, с использованием **CSS Modules**, **хуков** и **Error Boundary**.
 
-**Демо**: [Сссылка](https://todo-1sp0cthpk-marats-projects-1f19885d.vercel.app)
+**Деплой**: [Ссылка](https://todo-79th8zyj4-marats-projects-1f19885d.vercel.app/)
 
 ---
 
-##Запуск проекта
+## Запуск проекта
 
 ```bash
 # 1. Установить зависимости
