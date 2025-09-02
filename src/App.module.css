@@ -1,0 +1,22 @@
+.app {
+  width: 600px;
+  margin: 40px auto;
+  padding: 0;
+}
+
+.h1 {
+  text-align: center;
+  font-size: 80px;
+  color: #ddd;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+  opacity: 0.5;
+}
+
+.content {
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
