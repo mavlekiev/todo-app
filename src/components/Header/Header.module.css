@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  border-bottom: 1px solid #e6e6e6;
+  background-color: #f9f9f9;
+}
+
+.arrow {
+  color: #ccc;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.inputField {
+  flex-grow: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: #333;
+}
+
+.inputField::placeholder {
+  color: #ccc;
+}
